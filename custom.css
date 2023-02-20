@@ -1,0 +1,94 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+.jumbotron {
+    
+    background-color: rgb(241, 132, 150);
+}
+ul.social-network {  
+  list-style: none;  
+  display: inline;  
+  padding: 0;  
+}  
+
+.social-network a:hover {  
+  background-color: rgb(226, 76, 101);  
+}  
+.social-network a:hover i  
+{  
+  color: #fff;  
+}  
+.social-circle li a {  
+  display: inline-block;  
+  position: relative;  
+  margin: 0 auto 0 auto;  
+  -moz-border-radius: 50%;  
+  -webkit-border-radius: 50%;  
+  border-radius: 50%;  
+  text-align: center;  
+  width: 30px;  
+  height: 30px;  
+  font-size: 15px;  
+}  
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+.card-body{
+    background-color: pink;
+}
+.btn-info{
+    background-color: rgb(255, 0, 89);
+}
+.fas {
+    background-color: rgb(255, 0, 89);
+}
+.mesit {
+    padding-right: 50px;
+}
+#carouselExampleSlidesOnly {
+    background-color: rgb(245, 206, 213);
+    text-align: center;
+}
+.meist{
+    width: 700px;
+}
+.pilt{
+    height: 500px;
+}
